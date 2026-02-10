@@ -1,3 +1,2 @@
 # cv
-cv
-# this is my updated curricullum vitae 
+This is my updated curricullum vitae. 
